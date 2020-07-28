@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<title>Ankit Raj</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="author" content=""/>
+		
 		<!--Favicon-->
 		<link rel="shortcut icon" href="favicon.png">
 		<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -536,3 +546,7 @@
 		<script src="js/wow.min.js"></script>
 		<script src="js/init.js"></script>
 
+
+
+	</body>
+</html>
