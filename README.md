@@ -1,4 +1,3 @@
-<body bgcolor="#E6E6FA">
 <h2>नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Chief Technical Officer at <a href="http://www.mankibaat.tech">ManKiBaat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -6,6 +5,7 @@
 
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
+https://img.shields.io/badge/coderboy_-Mountain%20Meadow?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/coderboy_
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
