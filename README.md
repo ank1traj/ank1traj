@@ -6,7 +6,7 @@
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
 [![HackerRank: ankit](https://img.shields.io/badge/coderboy_-meadow?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/coderboy_/)](https://www.hackerrank.com/coderboy_/)
-[![CodeChef: ankit](https://img.shields.io/badge/honesthacker-cafe?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
+[![CodeChef: ankit](https://img.shields.io/badge/honesthacker-cafe-royale?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
 <br>
 <br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
