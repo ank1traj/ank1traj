@@ -25,10 +25,10 @@ const ankit = {
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase", "Socket.IO"],
     },
     toolsUsing: ["Photoshop", "Illustrator", "XD", "Figna", "InVision", 
-                "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"]
+                "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"],
     techCommunities: {
                         Leader: "CU-Coders",
                         speaker: "CU-Coders",
