@@ -1,6 +1,7 @@
-### Hi there 👋 My name is Ankit Raj, I am a Developer + Security Researcher0%">
-<div align="center">
+### Hi there 👋 My name is Ankit Raj, I am a Developer + Security Researcher">
+
 <img align="right" src="https://github.com/ank1traj/ank1traj/blob/master/images/404-05-space/404-05-space.png" height="300" width="300">
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="ABSphreak's Github Stats">
 </div>
 <!--
