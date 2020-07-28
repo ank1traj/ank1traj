@@ -51,6 +51,11 @@ const ankit = {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ankit's Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact" alt="Ankit's language">
 </div>
+<br />
+<br />
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
