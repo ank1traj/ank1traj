@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const ankit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C", "Python", "Ruby", "CPP", HTML, CSS],
     askMeAbout: ["web dev", "tech", "cyber security", "photography"],
