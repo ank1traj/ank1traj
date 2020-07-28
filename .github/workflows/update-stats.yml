@@ -1,0 +1,18 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 20:30pm UTC & 2:00am IST
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ank1traj/waka-readme-stats@Alpha #PLEASE USE MASTER BRANCH
+        with:
+          WAKATIME_API_KEY: ${{ secrets.896ad019-010e-455c-85ca-96fe688efba7}}
+          GH_TOKEN: ${{ secrets.4143c2d3baa3d25131b0f97c34829b4939ff56e8}}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "TRUE"
