@@ -5,8 +5,7 @@
 
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
-[![HackerRank: Ankit](https://img.shields.io/badge/coderboy_-Mountain%20Meadow?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/coderboy_)]
-(https://www.hackerrank.com/coderboy_)
+[![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.hackerrank.com/coderboy_)
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
