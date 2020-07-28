@@ -7,11 +7,11 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C", "Python", "Ruby", "CPP"],
+    code: ["Javascript", "C", "Python", "Ruby", "CPP", HTML, CSS],
     askMeAbout: ["web dev", "tech", "cyber security", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next"],
+            js: ["React", "Next", "Redux"],
             css: ["materialize", "saas", "bootstrap"]
         },
         backEnd: {
@@ -22,6 +22,12 @@ const anmol = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO"]
     },
+    techCommunities: {
+                        Leader: "CU-Coders",
+                        speaker: "CU-Coders",
+                        graphic-designer: "GirlScript",
+                        mentor: "CU-Coders"
+                      },
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an AI based mentoring system",
     funFact: "There are two ways to write error-free programs; only the third one works"
