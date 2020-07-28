@@ -23,7 +23,7 @@ const ankit = {
             js: ["node", "express"],
             python: ["django"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Route53"],
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO"],
     },
