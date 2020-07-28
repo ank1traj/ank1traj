@@ -41,7 +41,8 @@ const ankit = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ankit's Github Stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact)](https://github.com/ank1traj/github-readme-stats)
 </div>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
