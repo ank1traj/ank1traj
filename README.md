@@ -27,7 +27,8 @@ const ankit = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO"]
     },
-    toolsUsing: ["Photoshop", "Illustrator", "XD", "Figna", "InVision", "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"]
+    toolsUsing: ["Photoshop", "Illustrator", "XD", "Figna", "InVision", 
+                "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"]
     techCommunities: {
                         Leader: "CU-Coders",
                         speaker: "CU-Coders",
@@ -40,7 +41,8 @@ const ankit = {
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an AI based mentoring system",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    availableForHire: true
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
