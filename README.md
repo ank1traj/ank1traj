@@ -27,12 +27,17 @@ const ankit = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Socket.IO"]
     },
+    toolsUsing: ["Photoshop", "Illustrator", "XD", "Figna", "InVision", "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"]
     techCommunities: {
                         Leader: "CU-Coders",
                         speaker: "CU-Coders",
                         graphic-designer: "GirlScript",
                         mentor: "CU-Coders"
                       },
+    workplace: {
+                company: 'ManKiBaat',
+                position: 'Chief Technical Officer'         
+    },
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an AI based mentoring system",
     funFact: "There are two ways to write error-free programs; only the third one works"
