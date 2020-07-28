@@ -19,7 +19,7 @@ const ankit = {
     askMeAbout: ["web dev", "tech", "cyber security", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next", "Redux"],
+            js: ["React", "Next", "Redux", "jQuery"],
             css: ["materialize", "saas", "bootstrap"]
         },
         backEnd: {
