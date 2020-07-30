@@ -9,6 +9,9 @@
 [![CodeChef: ankit](https://img.shields.io/badge/honesthacker-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
 <br>
 <br>
+<div>
+    <figure><embed src="https://wakatime.com/share/@14307bef-789b-481f-be9a-433554db0624/ba3d493b-a90b-4922-bd0f-8d957419c7f2.svg"></embed></figure>
+</div>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
@@ -52,9 +55,7 @@ const ankit = {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ankit's Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact" alt="Ankit's language">
 <br>
-<div>
-    <figure><embed src="https://wakatime.com/share/@14307bef-789b-481f-be9a-433554db0624/ba3d493b-a90b-4922-bd0f-8d957419c7f2.svg"></embed></figure>
-</div>
+
 
 <!--START_SECTION:waka-->
 
