@@ -57,10 +57,9 @@ const ankit = {
 <br />
 <br />
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1198177%20Lines%20of%20code-blue)
 
 <!--START_SECTION:waka-->
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1198177%20Lines%20of%20code-blue)
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
