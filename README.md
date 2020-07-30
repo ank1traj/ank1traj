@@ -9,9 +9,7 @@
 [![CodeChef: ankit](https://img.shields.io/badge/honesthacker-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
 <br>
 <br>
-<div>
-    <figure><embed src="https://wakatime.com/share/@14307bef-789b-481f-be9a-433554db0624/ba3d493b-a90b-4922-bd0f-8d957419c7f2.svg"></embed></figure>
-</div>
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
