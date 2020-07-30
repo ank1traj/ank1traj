@@ -50,6 +50,7 @@ const ankit = {
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <details>
+    <summary>GitHub Statistics.... </summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ankit's Github Stats"></details>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact" alt="Ankit's language">
 <br />
