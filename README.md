@@ -53,7 +53,7 @@ const ankit = {
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact" alt="Ankit's language">
 <br />
 <br />
-
+<figure><embed src="https://wakatime.com/share/@14307bef-789b-481f-be9a-433554db0624/ba3d493b-a90b-4922-bd0f-8d957419c7f2.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
 
