@@ -51,8 +51,8 @@ const ankit = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ankit's Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact" alt="Ankit's language">
-<br />
-<br />
+<br>
+<br>
 <figure><embed src="https://wakatime.com/share/@14307bef-789b-481f-be9a-433554db0624/ba3d493b-a90b-4922-bd0f-8d957419c7f2.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
@@ -60,8 +60,8 @@ const ankit = {
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
-<br />
-<br />
+<br>
+<br>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
