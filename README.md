@@ -56,9 +56,7 @@ const ankit = {
 </div>
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
-<br />
-<br />
+
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1198177%20Lines%20of%20code-blue)
@@ -107,9 +105,11 @@ PhpStorm                 0 secs              ░░░░░░░░░░░�
 Windows                  11 hrs 39 mins      █████████████████████████   100.0%
 
 ```
-
-
 <!--END_SECTION:waka-->
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+<br />
+<br />
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
