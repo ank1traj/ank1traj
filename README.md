@@ -58,7 +58,7 @@ const ankit = {
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=skgb07hmyxeppwf0n1vdyl2sk&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 <br>
 <br>
