@@ -17,7 +17,7 @@
 const ankit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C", "Python", "Ruby", "CPP", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "cyber security", "photography"],
+    askMeAbout: ["web dev", "tech", "cyber security", "writing"],
     technologies: {
         frontEnd: {
             js: ["React", "Next", "Redux", "jQuery"],
