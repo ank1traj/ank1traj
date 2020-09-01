@@ -53,10 +53,7 @@ const ankit = {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ank1traj&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ankit's Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&layout=compact" alt="Ankit's language">
 <br>
-
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 <br>
