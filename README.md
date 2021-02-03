@@ -51,6 +51,10 @@ const ankit = {
     availableForHire: true
 };
 ```
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&" alt="ank1traj"/></p>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40">
@@ -75,9 +79,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&" alt="ank1traj"/></p>
 
-
+<div>
+  <img align="right" src="https://github.com/ank1traj/ank1traj/blob/master/images/404-05-space/404-05-space.png" height="300" width="300">
+</div>
 
 
 ### Made with ❤ by Ankit Raj
