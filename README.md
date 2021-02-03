@@ -53,14 +53,16 @@ const ankit = {
 ```
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&" alt="ank1traj"/></p>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight">
 </p>
 <br>
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&" alt="ank1traj"/></p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
