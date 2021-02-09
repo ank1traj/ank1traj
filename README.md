@@ -52,6 +52,21 @@ const ankit = {
 };
 ```
 
+- 🌱 I’m currently learning **AWS**
+
+- 👯 I’m looking to collaborate on **React, JavaScript, CPP**
+
+- 🤝 I’m looking for help with **JavaScript, HTML, CSS**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ank1traj?tab=repositories)
+
+- 💬 Ask me about **Web Development & Competitive Programming**
+
+- 📫 How to reach me **ankit.raj928@gmail.com**
+
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/ank1traj/)
+
+- ⚡ Fun fact **Only a quarter of the Sahara Desert is sandy**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p>
