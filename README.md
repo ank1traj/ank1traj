@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Chief Technical Officer at <a href="http://www.mankibaat.tech">ManKiBaat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Ex-Chief Technical Officer at <a href="http://www.mankibaat.tech">ManKiBaat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
