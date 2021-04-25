@@ -7,6 +7,7 @@
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
 [![HackerRank: ankit](https://img.shields.io/badge/coderboy_-meadow?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/coderboy_/)](https://www.hackerrank.com/coderboy_/)
 [![CodeChef: ankit](https://img.shields.io/badge/honesthacker-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
+[![Instagram Badge](https://img.shields.io/badge/-@ank1t_shrivastava-C13584?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ank1t_shrivastava/)](https://instagram.com/ank1t_shrivastava)
 <br>
 <br>
 
