@@ -33,7 +33,7 @@ const ankit = {
             python: ["django"]
         },
         devOps: ["AWS", "Docker🐳", "Route53"],
-        databases: ["mongo", "MySql"],
+        databases: ["mongoDB", "MySql"],
         misc: ["Firebase", "Socket.IO"],
     },
     toolsUsing: ["Photoshop", "Illustrator", "XD", "Figma", "InVision", 
