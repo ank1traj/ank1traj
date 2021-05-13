@@ -1,8 +1,8 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a>
 <p><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a>
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a>
+ <img src="https://media4.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif?cid=ecf05e473txte3g8yqrlf91sou9rrggo0bae25qkzgknivob&rid=giphy.gif&ct=s" width="30"> 
 </em></p>
 
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
