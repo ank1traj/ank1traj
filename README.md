@@ -81,8 +81,7 @@ const ankit = {
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&" alt="ank1traj"/></p>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<script id="setmore_script" type="text/javascript" src="https://my.setmore.com/webapp/js/src/others/setmore_iframe.js"></script><a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj using Setmore" /></a><br>
+<!--END_SECTION:waka--><a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj using Setmore" /></a><br>
 <br>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
