@@ -12,7 +12,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ank1t_shrivastava-C13584?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ank1t_shrivastava/)](https://instagram.com/ank1t_shrivastava)
 <br>
 <br>
-
+<a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj using Setmore" /></a><br>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ank1traj" alt="ank1traj"/></a></p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -81,7 +81,7 @@ const ankit = {
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&" alt="ank1traj"/></p>
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka--><a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj using Setmore" /></a><br>
+<!--END_SECTION:waka-->
 <br>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
