@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/htSeueZxZ2RkBPrIe1/200.webp?cid=ecf05e47en0ydtgdkv9lehbhuwez3e1y4te1izay11ipr2g6&rid=200.webp&ct=s" width="230">
+<img align='right' src="https://media4.giphy.com/media/dxmtc3acBAJ87Aywug/giphy.webp?cid=ecf05e47wvj28xqeed0vvdyzgx2kdst9o38l6tzl0pq0l1hz&rid=giphy.webp&ct=s" width="230">
 <p><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a>
 <p><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a>
  <img src="https://media3.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611bce2a90b1aab7fb1a4b763f4f34eb4d98a503768&rid=giphy.gif&ct=s" width="30"> 
