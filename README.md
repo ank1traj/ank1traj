@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a>
 <p><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a>
- <img src="https://media4.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif?cid=ecf05e473txte3g8yqrlf91sou9rrggo0bae25qkzgknivob&rid=giphy.gif&ct=s" width="30"> 
+ <img src="https://media4.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif?cid=ecf05e47wcdy1o8b3fuoxjx8n4gvrtrbizpetw2zff1olgvj&rid=giphy.gif&ct=s" width="30"> 
 </em></p>
 
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
