@@ -116,9 +116,6 @@ const ankit = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15134](https://github.com/timburgan/timburgan/issues/15134) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-<!--END_SECTION:activity-->
 ### 🚀 Time for some stats
 
 <p align="center">
