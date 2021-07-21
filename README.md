@@ -40,7 +40,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who love to build, deploy
 </h1>
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/ank1traj/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
 [<img src="https://img.shields.io/badge/Hackerrank-T545454.svg?&style=for-the-badge&logo=hackerrank&logoColor=white">](https://www.hackerrank.com/coderboy_/)
