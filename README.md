@@ -92,6 +92,13 @@ const ankit = {
 ![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true)
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br>
