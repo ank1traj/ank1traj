@@ -154,9 +154,9 @@ const ankit = {
   </a>
 </p>
 
-<div align="center">
-  ![](https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/0-profile-details.svg">
+</p>
 
 <img  src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg" align="right">
 <img  src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg">
