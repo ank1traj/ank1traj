@@ -7,16 +7,14 @@
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student, indulged in competitive programming.
 
-<h2 align="center">Current Roles</h2>
+<h2 align="center">Curren Roles</h2>
 <table>
   <tr>
-    <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
-    <th><a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder at SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a></th>
-    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
+    <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/CodeChef%20Chapter%20President%F0%9F%9A%A9-FF0000?style=for-the-badge&logo=codechef&logoColor=white" width="350px" height="30px"></a></th>
   </tr>
   <table>
   <tr>
-    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the Philippines. <hr>Find your campus expert: <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a></td>
+    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the India. <hr>Find your college chapter: <a href="https://githubcampus.expert/experts">https://www.codechef.com/college-chapter/member</a></td>
   </tr>
   </table>
 </table>
@@ -29,11 +27,6 @@ A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
 
-<!--<p align="center"><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a></p>
-<p align="center"><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a></p>
- <img src="https://media3.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611bce2a90b1aab7fb1a4b763f4f34eb4d98a503768&rid=giphy.gif&ct=s" width="30"> 
-</em></p>
--->
 
 
 
