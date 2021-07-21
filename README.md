@@ -23,7 +23,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who love to build, deploy
 
 <br>
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
 
@@ -42,13 +42,12 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who love to build, deploy
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
 [<img src="https://img.shields.io/badge/Hackerrank-T545454.svg?&style=for-the-badge">](https://www.hackerrank.com/coderboy_/)
 [<img src="https://img.shields.io/badge/Codechef-maroon.svg?&style=for-the-badge">](https://www.codechef.com/users/honesthacker/)
- 
-</div>
 
 <a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj" /></a><br>
+</div>
+
 <br>
 <br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
 
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -112,6 +111,8 @@ const ankit = {
 <br>
 
 ### 🚀 Time for some stats
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ank1traj)
 
 ![Ankit's github snake graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
 <!--![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true)-->
