@@ -7,7 +7,7 @@
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student, indulged in competitive programming.
 
-<h2 align="center">Curren Roles</h2>
+<h2 align="center">Current Roles</h2>
 <table>
   <tr>
     <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/CodeChef%20Chapter%20President%F0%9F%9A%A9-FF0000?style=for-the-badge&logo=codechef&logoColor=white" width="350px" align="center" height="30px"></a></th>
@@ -48,8 +48,15 @@ A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy 
 <a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj" /></a><br>
 <br>
 <br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ank1traj)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
 
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/ank1traj/ank1traj/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/ank1traj/ank1traj/blob/master/PNG/right.png">
+  </a>
+</p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
