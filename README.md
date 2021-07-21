@@ -121,10 +121,6 @@ const ankit = {
 <img  src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true" align="right">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight">
 
-<div align="center">
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark" width="45%" align="center">
-</div>
-<br>
 
 <p align="center">
   <a>
@@ -133,6 +129,7 @@ const ankit = {
     <img height="150" width="175" src="https://github.com/ank1traj/ank1traj/blob/master/media/right.png">
   </a>
 </p>
+
 <!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)-->
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
