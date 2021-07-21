@@ -36,7 +36,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy 
 <a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj" /></a><br>
 <br>
 <br>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ank1traj" alt="ank1traj"/></a></p>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ank1traj)
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
