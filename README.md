@@ -8,6 +8,7 @@
 A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student, indulged in competitive programming.
 
 <br>
+
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
@@ -111,6 +112,7 @@ const ankit = {
 <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark" width="45%" align="center">
 </div>
 <br>
+
 <!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)-->
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
