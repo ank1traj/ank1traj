@@ -1,4 +1,7 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+
+<h2 align="center">नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/nm6266UyRc2EnfpAo8/200w.webp?cid=ecf05e47q63gnvkmdyrc27my82jjlwmnazhyf1rx8pk7flc1&rid=200w.webp&ct=s" width="300">
 <p><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a>
 <p><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a>
