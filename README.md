@@ -4,7 +4,7 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ankit Raj aka honesthacker! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <!--<img align='right' src="https://media4.giphy.com/media/nm6266UyRc2EnfpAo8/200w.webp?cid=ecf05e47q63gnvkmdyrc27my82jjlwmnazhyf1rx8pk7flc1&rid=200w.webp&ct=s" width="300">-->
 
-<h3 align="center">I'm a Software and Web Developer from India <img src="https://bit.ly/3iBUi5G"> ❤</h3>
+<h3 align="center">I'm a Software and Web Developer from India <img src="https://bit.ly/3iBUi5G" width="4px" height="4px"> ❤</h3>
 A 22 Y/O Software🌈 and Web developer🎯 from India who love to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student, indulged in competitive programming.
 
 <h2 align="center">Current Roles</h2>
