@@ -19,17 +19,13 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
  
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
+[<img src="https://img.shields.io/badge/Hackerrank-T545454.svg?&style=for-the-badge">](https://www.hackerrank.com/coderboy_/)
+[<img src="https://img.shields.io/badge/Hackerrank-red.svg?&style=for-the-badge">](https://www.codechef.com/users/honesthacker/)
+ 
 </div>
-
-[![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
-[![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
-[![HackerRank: ankit](https://img.shields.io/badge/coderboy_-meadow?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/coderboy_/)](https://www.hackerrank.com/coderboy_/)
-[![CodeChef: ankit](https://img.shields.io/badge/honesthacker-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
-[![Instagram Badge](https://img.shields.io/badge/-@ank1t_shrivastava-C13584?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ank1t_shrivastava/)](https://instagram.com/honesthacker_)
 
 <a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj" /></a><br>
 <br>
