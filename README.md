@@ -8,9 +8,10 @@
 A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 <!--<p align="center"><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a></p>
-<p align="center"><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a></p>-->
+<p align="center"><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a></p>
  <img src="https://media3.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611bce2a90b1aab7fb1a4b763f4f34eb4d98a503768&rid=giphy.gif&ct=s" width="30"> 
 </em></p>
+-->
 
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
