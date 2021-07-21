@@ -11,7 +11,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: JayantGoel001/metrics@master
+        uses: ank1traj/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -58,7 +58,7 @@ jobs:
           plugin_support: yes
           
       - name: Personal metrics (detailed)
-        uses: JayantGoel001/metrics@master
+        uses: ank1traj/metrics@master
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
