@@ -77,7 +77,7 @@ const ankit = {
                         Leader: "CU-Coders",
                         speaker: "CU-Coders",
                         graphic-designer: "GirlScript",
-                        mentor: "CU-Coders"
+                        mentor: "CU-Coders, CGC Landran, Chandigarh University"
                       },
     workplace: {
                 company: 'ManKiBaat',
