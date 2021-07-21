@@ -31,8 +31,11 @@ A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy 
 
 
 <div align="center">
- 
-### Show some ❤️ by starring ⭐ some of the repositories!
+ <h1>
+  Connect With Me
+    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/Handshake.gif" height="25px" style="max-width:100%;">
+</h1>
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
@@ -141,6 +144,17 @@ const ankit = {
     <img src="https://github.com/ank1traj/ank1traj/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/ank1traj/ank1traj/blob/master/media/arctic.gif" width="100px" height="100px">
+  </a>
+</p>
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
