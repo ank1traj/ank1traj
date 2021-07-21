@@ -118,7 +118,19 @@ const ankit = {
 
 
 ![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
+<p align="center">
+  <a href="https://github.com/ank1traj">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  </a>
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
 
+<p align="center">
+  <a href='https://github.com/ank1traj/'>
+    <img width="75%" src="https://github.com/JayantGoel001/ank1traj/blob/master/metrics.svg"/>
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
+  </a>
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
