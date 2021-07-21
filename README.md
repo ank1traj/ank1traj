@@ -13,6 +13,18 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 </em></p>
 -->
 
+
+
+<div align="center">
+ 
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
+</div>
+
 [![Linkedin: ankit](https://img.shields.io/badge/ank1traj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ank1traj/)](https://www.linkedin.com/in/ank1traj/)
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
 [![HackerRank: ankit](https://img.shields.io/badge/coderboy_-meadow?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/coderboy_/)](https://www.hackerrank.com/coderboy_/)
@@ -93,15 +105,6 @@ const ankit = {
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 
-<div align="center">
- 
-### Show some ❤️ by starring ⭐ some of the repositories!
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
-</div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br>
