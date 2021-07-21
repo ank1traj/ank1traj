@@ -114,8 +114,9 @@ const ankit = {
 <br>
 
 ### 🚀 Time for some stats
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ank1traj)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+ </p>
 
 ![Ankit's github snake graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
 <!--![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true)-->
