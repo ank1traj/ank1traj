@@ -3,8 +3,8 @@
 
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ankit Raj! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <!--<img align='right' src="https://media4.giphy.com/media/nm6266UyRc2EnfpAo8/200w.webp?cid=ecf05e47q63gnvkmdyrc27my82jjlwmnazhyf1rx8pk7flc1&rid=200w.webp&ct=s" width="300">-->
-<h3 align="center"><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a>
-<h3 align="center"><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a>
+<h3 align="center"><em>President at <a href="https://www.cuchapter.tech/"> CU-Chapter</a></h3>
+<h3 align="center"><em>Ex-Chief Technical Officer at <a href="https://www.mbk-health.com/">ManKiBaat</a></h3>
  <img src="https://media3.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=790b7611bce2a90b1aab7fb1a4b763f4f34eb4d98a503768&rid=giphy.gif&ct=s" width="30"> 
 </em></p>
 
