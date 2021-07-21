@@ -105,6 +105,7 @@ const ankit = {
 <div align="center">
 <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark" width="45%" align="center">
 </div>
+
 <!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)-->
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
