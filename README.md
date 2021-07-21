@@ -154,6 +154,13 @@ const ankit = {
   </a>
 </p>
 
+
+[![](https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 <p align="center">
   <a href="https://archiveprogram.github.com/">
     <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/ank1traj/ank1traj/blob/master/media/arctic.gif" width="100px" height="100px">
