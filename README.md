@@ -93,6 +93,7 @@ const ankit = {
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 
+<div align="center">
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
