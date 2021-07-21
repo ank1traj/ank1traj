@@ -94,12 +94,14 @@ const ankit = {
 
 
 <div align="center">
+ 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ank1traj/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
+</div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br>
