@@ -23,7 +23,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/honesthacker/?hl=en)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ankit.cuchapter.tech/)
 [<img src="https://img.shields.io/badge/Hackerrank-T545454.svg?&style=for-the-badge">](https://www.hackerrank.com/coderboy_/)
-[<img src="https://img.shields.io/badge/Hackerrank-red.svg?&style=for-the-badge">](https://www.codechef.com/users/honesthacker/)
+[<img src="https://img.shields.io/badge/Codechef-maroon.svg?&style=for-the-badge">](https://www.codechef.com/users/honesthacker/)
  
 </div>
 
