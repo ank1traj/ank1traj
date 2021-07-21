@@ -99,9 +99,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div>
-  <img align="right" src="https://github.com/ank1traj/ank1traj/blob/master/images/404-05-space/404-05-space.png" height="300" width="300">
-</div>
 
 
 ### Made with ❤ by Ankit Raj
