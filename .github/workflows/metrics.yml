@@ -11,7 +11,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: ank1traj/metrics@master
+        uses: lowlighter/metrics@v3.10
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
