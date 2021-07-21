@@ -5,7 +5,7 @@
 <!--<img align='right' src="https://media4.giphy.com/media/nm6266UyRc2EnfpAo8/200w.webp?cid=ecf05e47q63gnvkmdyrc27my82jjlwmnazhyf1rx8pk7flc1&rid=200w.webp&ct=s" width="300">-->
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
-A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student, indulged in competitive programming.
+A 22 Y/O Software🌈 and Web developer🎯 from India who love to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student, indulged in competitive programming.
 
 <h2 align="center">Current Roles</h2>
 <table>
