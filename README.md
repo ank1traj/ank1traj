@@ -77,11 +77,11 @@ const ankit = {
 
 ### 🚀 Time for some stats
 
+![Ankit's github contribution graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true")
 ![Ankit's github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight)
 
 ![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true)
-![Ankit's github contribution graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 <!--START_SECTION:waka-->
