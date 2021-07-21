@@ -82,7 +82,8 @@ const ankit = {
 
 ![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true)
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
- 
+ ![Ankit's github contribution graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br>
