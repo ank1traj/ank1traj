@@ -9,7 +9,7 @@
 [![GitHub Ankit](https://img.shields.io/github/followers/ank1traj?label=follow&style=social)](https://github.com/ank1traj)
 [![HackerRank: ankit](https://img.shields.io/badge/coderboy_-meadow?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/coderboy_/)](https://www.hackerrank.com/coderboy_/)
 [![CodeChef: ankit](https://img.shields.io/badge/honesthacker-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/honesthacker/)](https://www.codechef.com/users/honesthacker/)
-[![Instagram Badge](https://img.shields.io/badge/-@ank1t_shrivastava-C13584?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ank1t_shrivastava/)](https://instagram.com/ank1t_shrivastava)
+[![Instagram Badge](https://img.shields.io/badge/-@ank1t_shrivastava-C13584?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ank1t_shrivastava/)](https://instagram.com/honesthacker_)
 
 <a id="Setmore_button_iframe" style="float:none" href="https://my.setmore.com/bookingpage/3648dafa-a45e-45f7-aeb9-b6862481b7b0"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with Ankit Raj" /></a><br>
 <br>
@@ -81,8 +81,8 @@ const ankit = {
 ![Ankit's github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight)
 
 ![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true)
+![Ankit's github contribution graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
- ![Ankit's github contribution graph]( https://github.com/ank1traj/ank1traj/blob/output/github-contribution-grid-snake.gif)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
