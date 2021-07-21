@@ -100,7 +100,7 @@ const ankit = {
                                                                                                                 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true" align="right">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight" width="45%" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight">
 <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark" width="45%" align="center">
 
 <!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)-->
