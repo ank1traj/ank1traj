@@ -10,7 +10,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy 
 <h2 align="center">Curren Roles</h2>
 <table>
   <tr>
-    <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/CodeChef%20Chapter%20President%F0%9F%9A%A9-FF0000?style=for-the-badge&logo=codechef&logoColor=white" width="350px" height="30px"></a></th>
+    <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/CodeChef%20Chapter%20President%F0%9F%9A%A9-FF0000?style=for-the-badge&logo=codechef&logoColor=white" width="350px" align="center" height="30px"></a></th>
   </tr>
   <table>
   <tr>
