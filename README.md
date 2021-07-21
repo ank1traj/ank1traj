@@ -50,13 +50,7 @@ A 21Y/O Software🌈 and Web developer🎯 from India who love to build, deploy 
 <br>
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
 
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/ank1traj/ank1traj/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/ank1traj/ank1traj/blob/master/PNG/right.png">
-  </a>
-</p>
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
