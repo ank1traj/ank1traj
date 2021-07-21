@@ -12,7 +12,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who love to build, deploy
   <tr>    
     <th><a href="https://www.accenture.com/in-en"><img src="https://img.shields.io/badge/Developer%20Accenture%20-darkviolet?style=for-the-badge&logo=accenture&logoColor=white" width="350px" align="center" height="30px"></a></th>
     <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/president%20codechef%20chapter%20-brown?style=for-the-badge&logo=codechef&logoColor=white" width="350px" align="center" height="30px"></a></th>
-    <th><a href="https://www.linkedin.com/company/mbkhealthtech/"><img src="https://img.shields.io/badge/ex%20CTO%20MBK%20Health%20-blue?style=for-the-badge&logo=doctor&logoColor=white" width="350px" align="center" height="30px"></a></th>
+    <th><a href="https://auth.geeksforgeeks.org/user/coderboy_/articles"><img src="https://img.shields.io/badge/content%20writer%20GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" width="350px" align="center" height="30px"></a></th>
 
   </tr>
   <table>
