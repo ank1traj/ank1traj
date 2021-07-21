@@ -74,8 +74,7 @@ const ankit = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true)
-">
+    <img src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight">
 </p>
 <br>
@@ -84,7 +83,8 @@ const ankit = {
 
 ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&hide_border=true)
 
-![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true")
+![Ankit's github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight)
 
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 <!--START_SECTION:waka-->
