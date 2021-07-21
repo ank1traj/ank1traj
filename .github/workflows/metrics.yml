@@ -15,7 +15,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           base: "header, activity, community, repositories"
           
           plugin_lines: yes
@@ -58,11 +58,11 @@ jobs:
           plugin_support: yes
           
       - name: Personal metrics (detailed)
-        uses: ank1traj/metrics@master
+        uses: lowlighter/metrics@v3.10
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           base: "metadata"
           plugin_gists: yes
           plugin_pagespeed: yes
