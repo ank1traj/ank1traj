@@ -169,22 +169,6 @@ const ankit = {
 <img  src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/4-productive-time.svg">
 
 
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/ank1traj/ank1traj/blob/master/media/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
- <p align="center"> 
-   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/daftpunktocat-thomas.gif" height="160px" width="160px"> 
-   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/surftocat.png" height="160px" width="160px"> 
-   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/inspectocat.jpg" height="160px" width="160px">  
-   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>
-</div>
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3368800%20Lines%20of%20code-blue)
 
@@ -227,6 +211,22 @@ No Activity tracked this Week
 
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/ank1traj/ank1traj/blob/master/media/arctic.gif" width="100px" height="100px">
+  </a>
+</p>
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+ <p align="center"> 
+   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/surftocat.png" height="160px" width="160px"> 
+   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/inspectocat.jpg" height="160px" width="160px">  
+   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>
+</div>
 <br>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
