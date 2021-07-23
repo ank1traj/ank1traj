@@ -214,6 +214,11 @@ No Activity tracked this Week
 
 
 <!--END_SECTION:waka-->
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/2CIhTmXs8Q9lUIHmoVAL8U?si=1d63dc3d79c24e9a&nd=1)
 ---
