@@ -215,9 +215,9 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 ### Spotify Playing 🎧
-
+<div align="center">
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/2CIhTmXs8Q9lUIHmoVAL8U?si=1d63dc3d79c24e9a&nd=1)
-
+</div>
 ---
 <p align="center">
   <a href="https://archiveprogram.github.com/">
