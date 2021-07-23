@@ -214,7 +214,11 @@ No Activity tracked this Week
 
 
 <!--END_SECTION:waka-->
+### Spotify Playing 🎧
 
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/2CIhTmXs8Q9lUIHmoVAL8U?si=1d63dc3d79c24e9a&nd=1)
+
+---
 <p align="center">
   <a href="https://archiveprogram.github.com/">
     <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/ank1traj/ank1traj/blob/master/media/arctic.gif" width="100px" height="100px">
