@@ -220,7 +220,7 @@ Windows                  6 hrs 46 mins       ███████████�
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/2CIhTmXs8Q9lUIHmoVAL8U?si=1d63dc3d79c24e9a&nd=1)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/playlist/5udVMvLsxxkCgJahBsPnyH?si=3ce4a39b80f94813)
 ---
 <p align="center">
   <a href="https://archiveprogram.github.com/">
