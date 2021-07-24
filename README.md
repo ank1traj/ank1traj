@@ -230,7 +230,6 @@ Windows                  6 hrs 46 mins       ███████████�
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
  <p align="center"> 
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/daftpunktocat-thomas.gif" height="160px" width="160px"> 
@@ -239,6 +238,8 @@ Windows                  6 hrs 46 mins       ███████████�
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>
 </div>
 <br>
+<img align="center" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
