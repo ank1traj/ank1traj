@@ -73,7 +73,7 @@ const ankit = {
         version control: ["Git", "GitHub"],
         API: ["REST API"],
         devOps: ["AWS", "Docker🐳", "Route53"],
-        databases: ["mongoDB", "MySql", "PostgreSQL"],
+        databases: ["mongoDB", "MySQL", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO"],
         testing: ["manual testing", "automation testing"]
     },
