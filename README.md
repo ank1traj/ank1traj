@@ -95,7 +95,7 @@ const ankit = {
     availableForHire: true
 };
 ```
-<img width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
+<img width="40%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 
 - 🌱 I’m currently learning **AWS**
 
