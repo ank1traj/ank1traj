@@ -57,6 +57,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 
 
 ```
+<img src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 const ankit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C", "Python", "Ruby", "CPP", "HTML", "CSS"],
