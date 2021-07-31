@@ -144,8 +144,8 @@ const ankit = {
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 
+![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
 
-<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 <p align="center">
   <a href="https://github.com/ank1traj">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -242,7 +242,7 @@ Windows                  38 hrs 4 mins       ███████████�
 
 <img width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 
-![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 
 <br>
 <div align="center">
