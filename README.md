@@ -232,13 +232,16 @@ Windows                  38 hrs 4 mins       ███████████�
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
+<!--
  <p align="center"> 
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/daftpunktocat-thomas.gif" height="160px" width="160px"> 
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/surftocat.png" height="160px" width="160px"> 
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/inspectocat.jpg" height="160px" width="160px">  
-   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>
+   <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>-->
 </div>
+
+![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
+
 <br>
 <div align="center">
 <img align="center" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
