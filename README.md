@@ -143,6 +143,7 @@ const ankit = {
 <!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)-->
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
+<br>
 
 ![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
 
@@ -240,16 +241,17 @@ Windows                  38 hrs 4 mins       ███████████�
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>-->
 </div>
 
-<img width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 
-<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 
 <br>
 <div align="center">
+  
+<img width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 <img align="center" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </div>
 
 
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
