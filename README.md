@@ -128,7 +128,6 @@ const ankit = {
 <!--![Ankit's github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight")-->
                                                                                                                 
 
-<img width="20%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=ank1traj&show_icons=true&theme=tokyonight&line_height=40&count_private=true" align="right">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ank1traj&theme=tokyonight">
 
@@ -240,6 +239,8 @@ Windows                  38 hrs 4 mins       ███████████�
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/inspectocat.jpg" height="160px" width="160px">  
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>-->
 </div>
+
+<img width="20%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 
 ![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
 
