@@ -7,9 +7,10 @@
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
 
-<h2 align="center">Current Roles</h2>
+<h2 align="center">Current Roles <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+</h2>
 
-<img align="center" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+
 <table>
   <tr>    
     <th><a href="https://www.accenture.com/in-en"><img src="https://img.shields.io/badge/Developer%20Accenture%20-darkviolet?style=for-the-badge&logo=accenture&logoColor=white" width="350px" align="center" height="30px"></a></th>
