@@ -99,9 +99,10 @@ const ankit = {
 
 - 👯 I’m looking to collaborate on **React, JavaScript, CPP**
 
+<img width="70%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🤝 I’m looking for help with **JavaScript, HTML, CSS**
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ank1traj?tab=repositories)
 
