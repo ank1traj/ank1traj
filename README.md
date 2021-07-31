@@ -247,10 +247,10 @@ Windows                  38 hrs 4 mins       ███████████�
 
 
 <br>
-<div align="center">
+<!==<div align="center">
   
 <img align="center" width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
-</div>
+</div>-->
 
 <img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 <img align="right" width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
