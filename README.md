@@ -240,7 +240,7 @@ Windows                  38 hrs 4 mins       ███████████�
    <img src="https://github.com/ank1traj/ank1traj/blob/master/media/sarito.gif" height="160px" width="160px">  </p>-->
 </div>
 
-<img width="20%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
+<img width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 
 ![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
 
