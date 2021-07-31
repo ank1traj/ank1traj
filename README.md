@@ -243,13 +243,8 @@ Windows                  38 hrs 4 mins       ███████████�
 <div align="center">
 <img align="center" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </div>
-<picture>
-      <source srcset="https://github.githubassets.com/images/modules/site/home/footer-illustration.webp" media="(min-width: 700px)" type="image/webp">
-      <source srcset="https://github.githubassets.com/images/modules/site/home/footer-illustration-894.webp" type="image/webp">
-      <source srcset="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" media="(min-width: 700px)" type="image/svg">
-      <source srcset="https://github.githubassets.com/images/modules/site/home/footer-illustration-894.svg" type="image/svg">
-      <img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" alt="Illustration of the evolution of development by octocats" width="2900" height="1494" class="home-footer-illustration height-auto position-relative z-1 width-full d-block events-none" loading="lazy" decoding="async">
-    </picture>
+
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
