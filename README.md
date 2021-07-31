@@ -118,7 +118,7 @@ const ankit = {
 <br>
 
 ### 🚀 Time for some stats
-
+<img width="40%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" align="center">
 </p>
