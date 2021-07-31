@@ -144,8 +144,8 @@ const ankit = {
 ![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 
-![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
 
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 <p align="center">
   <a href="https://github.com/ank1traj">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -244,7 +244,6 @@ Windows                  38 hrs 4 mins       ███████████�
 <img align="center" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </div>
 
-<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
 
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
