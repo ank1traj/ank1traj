@@ -57,7 +57,6 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 
 
 ```
-<img src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 const ankit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C", "Python", "Ruby", "CPP", "HTML", "CSS"],
@@ -103,7 +102,8 @@ const ankit = {
 
 - 🤝 I’m looking for help with **JavaScript, HTML, CSS**
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
+<!--<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ank1traj?tab=repositories)
 
