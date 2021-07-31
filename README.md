@@ -253,6 +253,7 @@ Windows                  38 hrs 4 mins       ███████████�
 </div>
 
 <img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg"/>
+<img align="right" width="30%" align="right" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg"/>
 <!--
 **ank1traj/ank1traj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
