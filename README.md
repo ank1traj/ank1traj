@@ -89,8 +89,8 @@ const ankit = {
                         mentor: "CU-Coders, CGC Landran, Chandigarh University"
                       },
     workplace: {
-                company: 'ManKiBaat',
-                position: 'Chief Technical Officer'         
+                company: 'rtCamp',
+                position: 'QA Engineer'         
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an AI based mentoring system",
