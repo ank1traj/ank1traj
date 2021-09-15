@@ -1172,21 +1172,21 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="137.77777777777777" height="8" fill="#28a745"/>
-                            <rect mask="url(#issues-bar)" x="137.77777777777777" y="0" width="82.22222222222221" height="8" fill="#d73a49"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="135.55555555555554" height="8" fill="#28a745"/>
+                            <rect mask="url(#issues-bar)" x="135.55555555555554" y="0" width="84.44444444444446" height="8" fill="#d73a49"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                 </svg>
-                                <span class="no-wrap">62 <small>open</small></span>
+                                <span class="no-wrap">61 <small>open</small></span>
                             </div>
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d73a49" fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 0110.65-5.003.75.75 0 00.959-1.153 8 8 0 102.592 8.33.75.75 0 10-1.444-.407A6.5 6.5 0 011.5 8zM8 12a1 1 0 100-2 1 1 0 000 2zm0-8a.75.75 0 01.75.75v3.5a.75.75 0 11-1.5 0v-3.5A.75.75 0 018 4zm4.78 4.28l3-3a.75.75 0 00-1.06-1.06l-2.47 2.47-.97-.97a.749.749 0 10-1.06 1.06l1.5 1.5a.75.75 0 001.06 0z"/>
                                 </svg>
-                                <span class="no-wrap">37 <small>closed</small></span>
+                                <span class="no-wrap">38 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -1386,8 +1386,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
+                                <text x="60" y="60" dominant-baseline="central">93</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -1421,7 +1421,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.49 s
+                0.41 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1469,7 +1469,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.49 s
+                0.41 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1500,12 +1500,12 @@
             </div>
             <div class="row">
                 <section>
-                    <img class="screenshot" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAFcAfQDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAQFBgcBCP/EADcQAQABBAECAggCCAcAAAAAAAABAgMEBQYRIQcxEhMUMkFRYXEiNxUWIzVydIGyQmJ1kbHB4f/EABgBAQEBAQEAAAAAAAAAAAAAAAAEAQMC/8QAJREBAAIBAgUEAwAAAAAAAAAAAAECEQMhEhMiMZFBUWGBcaHR/9oADAMBAAIRAxEAPwD5iAVJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAW3HeO7TkWX7PqMO5kVR3rrjtRbj51VT2iPuv9v4d7HFwa8vU5mDvLVntkxrrnrKrE/HrT5zH+aOzXK2vp0tw2tuxQeXmMdQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABteOaLSYvGqOScnu5N7FryKsfHwMaPRqvV0xEz6Vc+7T3+Hdim42X5O6X/Vcj+yhqfXmemsTjM4/Uyhci5vsNrifo7Bt2tTpo7U4OHHo0T9a5865+s/7K+Le/4hn4uXFOZq8q5R6yzX0mia6f8AuPoleHemt7rlWLayoj2DH65WXVPlTZoj0quv36dP6tfvtrV4gcK2+XXT12GnzKsq1T8YxLk9Jpj+GYj+kDla9dG0adaxw+v3tH5zPdX2dvoOb3aMfkWNGq3l2Yot7LCt/s71U+XrbUfGZ/xU/Nit/q72k3ebrMmqiu9iXarVdVHuzMT5x9Dj/wC/td/M2/7oXXil+YvIf5y5/wAj3SvK1YpWdpiZx7bx289vDLAMVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoljW5e78IcS1qbU5d/B2N69kWbUxVct0VUUxFXo+fTtPfp8HO0vVbLN1ObbzNblXcXJt+7ctVdJj/z6NcdbTm8RNZ3ictdxLkNnivENpla7JtxyLMv0Y1NFVr0ptWI/FVV0qiaZ9Ke3T6LPiPiXsru9sYvJMnHuabKirHyqYxrVv8ABXEx1maaYnpHWJRI33H+X0xa5Zjxq9tPanbYdv8ABcn53rUef8VPc/VDQ8en2rlO+xs2zPexiam56y5kR8Jmryop+/czKK9NG3FzadU/GZ9tp+PrHecKPjmkyM/mdrG0Vu7sLNjLiYu26JiJtxX2rnr7sdPn0e+Jl23e8QN/cs103LdWZcmKqZ6xPf4Sk73nWZmYM6zS49rS6by9lxO03I+dyvzrn79voyAr06XtfmX22xj++PTyAMUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=" width="452" height="315" />
+                    <img class="screenshot" src="data:image/jpeg;base64,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" width="452" height="315" />
                 </section>
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 15 Sep 2021 06:03:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 15 Sep 2021 23:50:43 (timezone Asia/Kolkata) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
