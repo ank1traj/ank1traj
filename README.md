@@ -175,15 +175,15 @@ const ankit = {
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-48286401%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-48307514%20Lines%20of%20code-blue)
 
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    69 commits     █████░░░░░░░░░░░░░░░░░░░░   21.17% 
+🌞 Morning    66 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25% 
 🌆 Daytime    88 commits     ██████░░░░░░░░░░░░░░░░░░░   26.99% 
 🌃 Evening    69 commits     █████░░░░░░░░░░░░░░░░░░░░   21.17% 
-🌙 Night      100 commits    ███████░░░░░░░░░░░░░░░░░░   30.67%
+🌙 Night      103 commits    ████████░░░░░░░░░░░░░░░░░   31.6%
 
 ```
 📅 **I'm Most Productive on Saturdays** 
