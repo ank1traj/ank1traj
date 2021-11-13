@@ -2,7 +2,7 @@
 
 
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Ankit Raj aka honesthacker! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<!--<img align='right' src="https://media4.giphy.com/media/nm6266UyRc2EnfpAo8/200w.webp?cid=ecf05e47q63gnvkmdyrc27my82jjlwmnazhyf1rx8pk7flc1&rid=200w.webp&ct=s" width="300">
+<img align='right' src="https://media4.giphy.com/media/nm6266UyRc2EnfpAo8/200w.webp?cid=ecf05e47q63gnvkmdyrc27my82jjlwmnazhyf1rx8pk7flc1&rid=200w.webp&ct=s" width="300">
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
@@ -13,7 +13,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 
 <table>
   <tr>    
-    <th><a href="https://www.rtcamp.com/in-en"><img src="https://img.shields.io/badge/QA%20Engineer%20rtCamp%20-black?style=for-the-badge&logo=rtcamp&logoColor=white" width="350px" align="center" height="30px"></a></th>-->
+    <th><a href="https://www.rtcamp.com/in-en"><img src="https://img.shields.io/badge/QA%20Engineer%20rtCamp%20-black?style=for-the-badge&logo=rtcamp&logoColor=white" width="350px" align="center" height="30px"></a></th>
     <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/president%20codechef%20chapter%20-brown?style=for-the-badge&logo=codechef&logoColor=white" width="350px" align="center" height="30px"></a></th>
     <th><a href="https://auth.geeksforgeeks.org/user/coderboy_/articles"><img src="https://img.shields.io/badge/content%20writer%20GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" width="350px" align="center" height="30px"></a></th>
 
