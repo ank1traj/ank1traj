@@ -1197,16 +1197,16 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="63.148148148148145" height="8" fill="#28a745"/>
-                            <rect mask="url(#pr-bar)" x="63.148148148148145" y="0" width="44.81481481481481" height="8" fill="#d73a49"/>
-                            <rect mask="url(#pr-bar)" x="107.96296296296296" y="0" width="112.03703703703705" height="8" fill="#6f42c1"/>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="64.58715596330276" height="8" fill="#28a745"/>
+                            <rect mask="url(#pr-bar)" x="64.58715596330276" y="0" width="44.403669724770644" height="8" fill="#d73a49"/>
+                            <rect mask="url(#pr-bar)" x="108.9908256880734" y="0" width="111.0091743119266" height="8" fill="#6f42c1"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#28a745" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">31 <small>open</small></span>
+                                <span class="no-wrap">32 <small>open</small></span>
                             </div>
                             <div class="field center">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1239,14 +1239,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.73830378231725" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="204.73830378231725" y="0" width="115.18675818219339" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="319.92506196451063" y="0" width="93.1670406363022" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="413.0921026008128" y="0" width="23.15269598719312" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="436.2447985880059" y="0" width="20.62624309190906" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="456.871041679915" y="0" width="1.3716219256214737" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="458.24266360553645" y="0" width="0.9711078608526308" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="459.21377146638906" y="0" width="0.7862285336108928" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.8155966313302" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="204.8155966313302" y="0" width="115.04887567657278" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="319.864472307903" y="0" width="93.06392920839691" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="412.9284015162999" y="0" width="23.233495205504845" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="436.16189672180474" y="0" width="20.69822539234853" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="456.8601221141533" y="0" width="1.3764086674968365" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="458.2365307816502" y="0" width="0.9744968724863803" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="459.2110276541365" y="0" width="0.7889723458634821" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1257,7 +1257,7 @@
                     </div>
                             <small>
                                 <div>1.77 MB</div>
-                                <div>44.51%</div>
+                                <div>44.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1266,8 +1266,8 @@
                       CSS
                     </div>
                             <small>
-                                <div>805 kB</div>
-                                <div>20.25%</div>
+                                <div>802 kB</div>
+                                <div>20.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1277,7 +1277,7 @@
                     </div>
                             <small>
                                 <div>178 kB</div>
-                                <div>4.48%</div>
+                                <div>4.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1298,8 +1298,8 @@
                       HTML
                     </div>
                             <small>
-                                <div>996 kB</div>
-                                <div>25.04%</div>
+                                <div>991 kB</div>
+                                <div>25.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1309,7 +1309,7 @@
                     </div>
                             <small>
                                 <div>200 kB</div>
-                                <div>5.03%</div>
+                                <div>5.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1432,7 +1432,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.52 s
+                0.53 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1480,7 +1480,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.52 s
+                0.53 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1511,12 +1511,12 @@
             </div>
             <div class="row">
                 <section>
-                    <img class="screenshot" src="data:image/jpeg;base64,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" width="452" height="315" />
+                    <img class="screenshot" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAFcAfQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQFBgcI/8QANhABAAEEAQIDBgIIBwAAAAAAAAECAwQFBhEhBxIxExQyQVFhInEVFiM3cnSBsjVCYnWRseH/xAAYAQEBAQEBAAAAAAAAAAAAAAAABAEDAv/EACURAQACAQIFBAMAAAAAAAAAAAABAgMRIRITIjGRQVFhgXGh0f/aAAwDAQACEQMRAD8A8xAKk4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALbjvHdpyLL931GHcyKo711x2otx9aqp7RH5r/b+HexxcGvL1OZg7y1Z7ZMa657SqxPz60+sx/qjs1ytnx0tw2tuxQenqMdQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABteOaLSYvGqOScnu5N7FryKsfHwMaPLVerpiJnzVz8NPf5d2KbjZfud0v+65H9lDU+eZ6axOms6fqZQuRc32G1xP0dg27Wp00dqcHDjy0T9659a5+8/wDCBFrf8PzsTL8mZq8q5R7WzXMTRNdH1+8fZK8ONNb3fK8S1lxHuGP1ysuqfSmzbjzVdfz6dP6tjv8AbVeIXCdxl10zOx02ZVlWqfnGJdnpNMfwzEf0gcr3rhtGOtY4fX72j86z3Vlnb6Dm92jH5FjRqt5dmKLeywrf7O9VPp7W1Hzmf81P1Yrf6u9pN3m6zJqorvYl2q1XVR8MzE+sfY4//j2u/mbf90LrxS/eLyH+cuf9j3SvKyxSs7TEzp7bx289vDLAMVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoljW5e78IcS1qbU5d/B2N69kWbUxVct0VUUxFXl9enae/T5Odpeq2Wbqc23ma3Ku4uTb+G5aq6TH/AJ9muObHN4iazvE6thxHkVjinDtpla3JtxyPMv0Y1NFVrzTZsR+KqrpVE0z5p7dPss+IeJuzu76xi8lyce5pcqKsfLpjFtW+lFcTT1maaYnpHWJQo33H+X0xa5Zjxq9tPanbYdv8FyfretR6/wAVPc/VDQ8en3rlO+xs2zPexiam57S5kR8pmr0op/Pubor48NuLnU6p+NZ9tp+PrTvOik45pMjP5paxtFbu7CxYy4mL1uiYibcV9q56/DHTv36HiZdt3vEDf3LNdNy3VmXJiqmesT3+UpO951mZmDOs0uPa0um9PdcTtNyPrcr9a5/Pt9mQFeOl7X5l9ttNP749PIAxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//Z" width="452" height="315" />
                 </section>
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 20 Nov 2021 06:07:40 (timezone Asia/Kolkata) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 20 Nov 2021 23:50:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
