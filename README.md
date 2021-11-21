@@ -122,9 +122,8 @@ const ankit = {
 
 
 <details>
-<summary>🚀 Time for some stats</summary>
+<summary>🚀 Click on it for some amazing stats</summary>
 
-### 🚀 Time for some stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" align="center">
 </p>
@@ -179,6 +178,10 @@ const ankit = {
 
 </details>
 
+
+<details>
+<summary>🚀 Click on it for some coding stats</summary>
+  
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-56858775%20Lines%20of%20code-blue)
 
@@ -230,6 +233,7 @@ Windows                  3 hrs 33 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 ---
 
