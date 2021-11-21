@@ -120,6 +120,10 @@ const ankit = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
 
+
+<details>
+<summary>🚀 Time for some stats</summary>
+
 ### 🚀 Time for some stats
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" align="center">
@@ -173,6 +177,7 @@ const ankit = {
 <img  src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/3-stats.svg" align="right">
 <img  src="https://raw.githubusercontent.com/ank1traj/ank1traj/master/profile-summary-card-output/nord_bright/4-productive-time.svg">
 
+</details>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-56858775%20Lines%20of%20code-blue)
