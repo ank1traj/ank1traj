@@ -123,7 +123,7 @@ const ankit = {
 
 
 <details>
-<summary>🚀 Click on it for some amazing stats</summary>
+<summary><b>🚀 Click on it for some amazing stats<b></summary>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" align="center">
