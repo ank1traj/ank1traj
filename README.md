@@ -33,6 +33,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
+<a href="#"><img src="https://badges.pufler.dev/visits/ank1traj/ank1traj"></a>
 
 
 
@@ -55,11 +56,6 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 
 <br>
 <br>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/ank1traj/ank1traj"></a>
-</p>
-
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
