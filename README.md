@@ -21,7 +21,7 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
   </tr>
   <table>
   <tr>
-    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the India. <hr>Find your college chapter: <a href="https://githubcampus.expert/experts">https://www.codechef.com/college-chapter/member</a></td>
+    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the India. <hr>Find your college chapter: <a href="https://www.codechef.com/college-chapter/member">CodeChef Chapter</a></td>
   </tr>
   </table>
 </table>
