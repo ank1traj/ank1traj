@@ -47,7 +47,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_year: 2021
           plugin_skyline_frames: 120
-          plugin_skyline_quality: 0.5
+          plugin_skyline_quality: 1
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_days: 14
@@ -69,8 +69,8 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN }}
           base: "metadata"
           plugin_gists: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
+          plugin_pagespeed: no
+          plugin_pagespeed_detailed: no
           plugin_pagespeed_url: user.website
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_followup: yes
@@ -78,6 +78,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage 
           plugin_languages_limit: 8 
-          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_screenshot: no
           config_timezone: Asia/Kolkata
           plugin_languages_colors : "rainbow"
