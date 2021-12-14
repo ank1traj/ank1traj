@@ -125,7 +125,7 @@ const ankit = {
 <details>
 <summary>🚀 Click on it for some amazing stats</summary>
   
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ank1traj&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" align="center">
