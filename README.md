@@ -99,7 +99,7 @@ const ankit = {
     availableForHire: true
 };
 ```
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS & Swift** 
 
 - 👯 I’m looking to collaborate on **React, JavaScript, CPP**
 
