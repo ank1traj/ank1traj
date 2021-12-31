@@ -1197,9 +1197,9 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="63.38983050847458" height="8" fill="#28a745"/>
-                            <rect mask="url(#pr-bar)" x="63.38983050847458" y="0" width="41.016949152542374" height="8" fill="#d73a49"/>
-                            <rect mask="url(#pr-bar)" x="104.40677966101696" y="0" width="115.59322033898303" height="8" fill="#6f42c1"/>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="62.857142857142854" height="8" fill="#28a745"/>
+                            <rect mask="url(#pr-bar)" x="62.857142857142854" y="0" width="40.67226890756303" height="8" fill="#d73a49"/>
+                            <rect mask="url(#pr-bar)" x="103.52941176470588" y="0" width="116.47058823529412" height="8" fill="#6f42c1"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
@@ -1218,7 +1218,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#6f42c1" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">62 <small>merged</small></span>
+                                <span class="no-wrap">63 <small>merged</small></span>
                             </div>
                         </div>
                     </section>
@@ -1365,7 +1365,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 31 Dec 2021 06:11:21 (timezone Asia/Kolkata) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 31 Dec 2021 20:47:22 (timezone Asia/Kolkata) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
