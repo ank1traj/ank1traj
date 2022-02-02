@@ -79,7 +79,8 @@ const ankit = {
         devOps: ["AWS", "Docker🐳", "Route53"],
         databases: ["mongoDB", "MySQL", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO"],
-        testing: ["manual testing", "automation testing", "Selenium", "Jest", "JUnit", "TestNG", "Maven", "Jenkins", "codeception", "cypress"]
+        testing: ["manual testing", "automation testing", "Selenium", "Jest", "JUnit", "TestNG", 
+                  "Maven", "Jenkins", "codeception", "cypress"]
     },
     toolsUsing: ["Photoshop", "Illustrator", "XD", "Figma", "InVision", 
                 "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"],
