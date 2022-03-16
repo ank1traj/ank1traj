@@ -112,7 +112,7 @@ const ankit = {
 
 - 💬 Ask me about **Web Development & Competitive Programming**
 
-- 📫 How to reach me **ankit.raj@rtcamp.com**
+- 📫 How to reach me **ankit.raj@hackerearth.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/ank1traj/)
 
