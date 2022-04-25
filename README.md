@@ -186,7 +186,7 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-20322176%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-11043282%20Lines%20of%20code-blue)
 
 **I'm a night 🦉** 
 
@@ -200,8 +200,8 @@ const ankit = {
 📅 **I'm Most Productive on Saturdays** 
 
 ```text
-Monday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
-Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
+Monday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
+Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
 Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
 Thursday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
