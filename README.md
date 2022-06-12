@@ -186,7 +186,7 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-20108293%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-20108301%20Lines%20of%20code-blue)
 
 **I'm a night 🦉** 
 
