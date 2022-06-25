@@ -61,7 +61,7 @@ jobs:
 
           
       - name: Personal metrics (detailed)
-        uses: lowlighter/metrics@v3.10
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
