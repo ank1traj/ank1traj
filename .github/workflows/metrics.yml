@@ -12,7 +12,7 @@ jobs:
     steps:
   
       - name: Personal metrics
-        uses: lowlighter/metrics@v3.10
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
