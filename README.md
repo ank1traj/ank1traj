@@ -63,23 +63,23 @@ A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 const ankit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C", "Python", "Ruby", "CPP", "HTML", "CSS", "SCSS"],
-    askMeAbout: ["web dev", "tech", "cyber security", "writing"],
+    askMeAbout: ["web dev", "tech", "cyber security", "writing", "QA", "SDET"],
     technologies: {
         frontEnd: {
             js: ["React", "Next", "Redux", "jQuery"],
-            css: ["materialize", "saas", "bootstrap"]
+            css: ["materialize", "saas", "bootstrap, "materialUI", "Chakra", "Tailwind"]
         },
         backEnd: {
             js: ["node", "express"],
             python: ["django"]
         },
-        version control: ["Git", "GitHub"],
+        version control: ["Git", "GitHub", "BitBucket"],
         API: ["REST API"],
         devOps: ["AWS", "Docker🐳", "Route53", "GitHub Actions", "CircleCI"],
         databases: ["mongoDB", "MySQL", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO"],
         testing: ["manual testing", "automation testing", "Selenium", "Jest", "JUnit", "TestNG", 
-                  "Maven", "Jenkins", "codeception", "cypress". "PyTest"]
+                  "Maven", "Jenkins", "codeception", "cypress". "PyTest", "mocha"]
     },
     toolsUsing: ["Photoshop", "Illustrator", "XD", "Figma", "InVision", 
                 "InDesign", "Dimensions", "CLion", "RubyMine", "GoLand"],
