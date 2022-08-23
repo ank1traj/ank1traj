@@ -197,8 +197,8 @@ const ankit = {
 
 ```text
 Monday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
+Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+Wednesday    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
 Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
 Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
 Saturday     86 commits     ███████░░░░░░░░░░░░░░░░░░   31.05% 
