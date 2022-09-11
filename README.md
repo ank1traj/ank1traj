@@ -182,7 +182,7 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-6971972%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-0%20Lines%20of%20code-blue)
 
 **I'm a night 🦉** 
 
@@ -213,8 +213,8 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Timezone: Asia/Kolkata
 
 💬 Languages: 
-JavaScript               5 hrs 14 mins       ██████████████████████░░░   88.34% 
-CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
+JavaScript               5 hrs 14 mins       ██████████████████████░░░   88.33% 
+CSS                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
 C                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 🔥 Editors: 
