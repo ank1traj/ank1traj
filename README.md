@@ -185,12 +185,6 @@ const ankit = {
   
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 945 hrs 30 mins
-
-Other                  865 hrs 50 mins ████████████░░░░░░░░░░░░░   47.80 %
-```
-
 <!--END_SECTION:waka-->
 </details>
 
