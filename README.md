@@ -184,12 +184,9 @@ const ankit = {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   16 hrs 1 min    ████████████░░░░░░░░░░░░░   47.47 %
-JavaScript   11 hrs 9 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
-JSON         2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Bash         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-YAML         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-HTML         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Total Time: 945 hrs 30 mins
+
+Other                  865 hrs 50 mins ████████████░░░░░░░░░░░░░   47.80 %
 ```
 
 <!--END_SECTION:waka-->
