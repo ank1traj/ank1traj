@@ -147,9 +147,8 @@ const ankit = {
   </a>
 </p>
 
-<!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)-->
-![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
-
+<!--![Ankit's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ank1traj&show_icons=true&hide_border=true&theme=dark)
+![Ankit's github contribution graph](https://activity-graph.herokuapp.com/graph?username=ank1traj&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)-->
 <br>
 
 ![](https://github.com/ank1traj/ank1traj/blob/master/media/footer.png)
