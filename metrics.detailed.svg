@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.40901673115795" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="190.40901673115795" y="0" width="131.39225330067353" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="321.8012700318315" y="0" width="105.90486271801443" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="427.70613274984595" y="0" width="22.069368738455847" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="449.77550148830176" y="0" width="4.519671723772918" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="454.2951732120747" y="0" width="2.2573616341951177" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="456.5525348462698" y="0" width="1.9798769986112053" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="458.532411844881" y="0" width="1.4675881551190157" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.39683848216805" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="190.39683848216805" y="0" width="131.4053643919342" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="321.80220287410225" y="0" width="105.91543052764675" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="427.71763340174897" y="0" width="22.071570949775964" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="449.7892043515249" y="0" width="4.505399599404082" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="454.294603950929" y="0" width="2.257586887006077" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="456.5521908379351" y="0" width="1.9800745623743767" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="458.5322654003095" y="0" width="1.4677345996905293" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,7 +155,7 @@
                             </div>
                             <small>
                                 <div>856 kB</div>
-                                <div>23.02%</div>
+                                <div>23.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -166,7 +166,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>36.5 kB</div>
+                                <div>36.4 kB</div>
                                 <div>0.98%</div>
                             </small>
                         </div>
@@ -193,7 +193,7 @@
                             </div>
                             <small>
                                 <div>1.06 MB</div>
-                                <div>28.56%</div>
+                                <div>28.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -275,7 +275,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2023, 06:55:14 (timezone Asia/Kolkata) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 3 Jan 2023, 06:54:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
