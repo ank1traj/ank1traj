@@ -6,7 +6,7 @@
 
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
-A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
+A 25 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
 
 <h2 align="center">Current & Previous Roles
 </h2>
