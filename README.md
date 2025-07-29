@@ -8,16 +8,16 @@
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
 
-<h2 align="center">Current & Previous Roles <img width="3%" height="3%" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+<h2 align="center">Current & Previous Roles
 </h2>
 
 
 <table>
-  <tr>    
+  <tr> 
+    <th><a href="https://sprinto.com/"><img src="https://img.shields.io/badge/SDET%20Sprinto-black?style=for-the-badge&logo=Sprinto&logoColor=white" width="350px" align="center" height="30px"></a></th>
     <th><a href="https://www.plivo.com/"><img src="https://img.shields.io/badge/SDET%20Plivo-darkgreen?style=for-the-badge&logo=Plivo&logoColor=white" width="350px" align="center" height="30px"></a></th>
     <th><a href="https://www.hackerearth.com/"><img src="https://img.shields.io/badge/SDET%20HackerEarth-blue?style=for-the-badge&logo=HackerEarth&logoColor=white" width="350px" align="center" height="30px"></a></th>
     <th><a href="https://www.rtcamp.com/in-en"><img src="https://img.shields.io/badge/QA%20Engineer%20rtCamp%20-black?style=for-the-badge&logo=rtcamp&logoColor=white" width="350px" align="center" height="30px"></a></th>
-    <th><a href="https://home.cuchapter.tech/team"><img src="https://img.shields.io/badge/president%20codechef%20chapter%20-brown?style=for-the-badge&logo=codechef&logoColor=white" width="350px" align="center" height="30px"></a></th>
   </tr>
   <table>
   <tr>
@@ -111,7 +111,7 @@ const ankit = {
 
 - 💬 Ask me about **Web Development & Competitive Programming**
 
-- 📫 How to reach me **ankit.raj@plivo.com**
+- 📫 How to reach me **ankitr@sprinto.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/ank1traj/)
 
