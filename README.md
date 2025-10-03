@@ -184,8 +184,6 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C332%20hrs%2011%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.3%20million%20lines%20of%20code-blue)
@@ -194,7 +192,7 @@ const ankit = {
 
 > 📦 5.6 MB Used in GitHub's Storage 
  > 
-> 🏆 649 Contributions in the Year 2025
+> 🏆 653 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -202,47 +200,6 @@ const ankit = {
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                13161 commits       ████████░░░░░░░░░░░░░░░░░   30.44 % 
-🌆 Daytime                11150 commits       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-🌃 Evening                12695 commits       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-🌙 Night                  6230 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   5052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Tuesday                  5275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Wednesday                5037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Thursday                 5661 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Friday                   7367 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Saturday                 9237 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Sunday                   5607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               7 hrs 57 mins       ███████████████████░░░░░░   74.29 % 
-JavaScript               1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Prisma                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-🔥 Editors: 
-Cursor                   10 hrs 31 mins      █████████████████████████   98.13 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-💻 Operating System: 
-Mac                      10 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -260,7 +217,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2025 00:56:44 UTC
+ Last Updated on 03/10/2025 00:50:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
