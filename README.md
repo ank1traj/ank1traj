@@ -6,7 +6,7 @@
 
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
-A 25 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
+A Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ and specializes in building (and occasionally designing) exceptional digital experiences. Meticulous and motivated graduate student indulged in competitive programming.
 
 <h2 align="center">Current & Previous Roles
 </h2>
@@ -30,7 +30,6 @@ A 25 Y/O Software🌈 and Web developer🎯 from India who loves to build, deplo
 
 <br>
 
-![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-INDIA-3c9)
 ![GitHub followers](https://img.shields.io/github/followers/ank1traj?label=Follow&style=social)
