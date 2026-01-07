@@ -183,15 +183,17 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C439%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79.05%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.6 MB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2026
+> 🏆 102 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,6 +201,42 @@ const ankit = {
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14155 commits       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌆 Daytime                12598 commits       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                14572 commits       ████████░░░░░░░░░░░░░░░░░   30.10 % 
+🌙 Night                  7086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   5479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Tuesday                  5814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                5902 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 6734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   8220 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Saturday                 10121 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Sunday                   6141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -216,7 +254,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 00:56:03 UTC
+ Last Updated on 07/01/2026 01:00:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
