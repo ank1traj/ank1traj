@@ -183,8 +183,6 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C439%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.58%20million%20lines%20of%20code-blue?style=flat)
@@ -193,7 +191,7 @@ const ankit = {
 
 > 📦 5.6 MB Used in GitHub's Storage 
  > 
-> 🏆 683 Contributions in the Year 2026
+> 🏆 685 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -204,7 +202,7 @@ const ankit = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15453 commits       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌞 Morning                15457 commits       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
 🌆 Daytime                14242 commits       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
 🌃 Evening                16112 commits       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
 🌙 Night                  8420 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
@@ -215,7 +213,7 @@ const ankit = {
 Monday                   6268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 Tuesday                  6413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 Wednesday                6780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 7863 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Thursday                 7867 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 Friday                   9101 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 Saturday                 10958 commits       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 Sunday                   6844 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
@@ -254,7 +252,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 02:13:06 UTC
+ Last Updated on 22/05/2026 02:22:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
