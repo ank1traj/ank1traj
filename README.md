@@ -183,6 +183,8 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C439%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.60%20million%20lines%20of%20code-blue?style=flat)
@@ -191,7 +193,7 @@ const ankit = {
 
 > 📦 5.6 MB Used in GitHub's Storage 
  > 
-> 🏆 704 Contributions in the Year 2026
+> 🏆 706 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,6 +201,42 @@ const ankit = {
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15492 commits       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌆 Daytime                14243 commits       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌃 Evening                16113 commits       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+🌙 Night                  8420 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   6272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Tuesday                  6417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Wednesday                6785 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 7874 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   9109 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Saturday                 10963 commits       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Sunday                   6848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -216,7 +254,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 02:12:23 UTC
+ Last Updated on 30/05/2026 02:06:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
