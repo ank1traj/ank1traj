@@ -183,8 +183,6 @@ const ankit = {
 <summary>🚀 Click on it for some coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C439%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.23%20million%20lines%20of%20code-blue?style=flat)
@@ -193,7 +191,7 @@ const ankit = {
 
 > 📦 5.7 MB Used in GitHub's Storage 
  > 
-> 🏆 822 Contributions in the Year 2026
+> 🏆 824 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -204,7 +202,7 @@ const ankit = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15744 commits       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌞 Morning                15748 commits       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 🌆 Daytime                14297 commits       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
 🌃 Evening                16155 commits       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 🌙 Night                  8468 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
@@ -213,9 +211,9 @@ const ankit = {
 
 ```text
 Monday                   6328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Tuesday                  6459 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Tuesday                  6459 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 Wednesday                6855 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Thursday                 7946 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Thursday                 7950 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 Friday                   9153 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Saturday                 11011 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 Sunday                   6912 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
@@ -254,7 +252,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 01:49:09 UTC
+ Last Updated on 24/07/2026 01:37:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
