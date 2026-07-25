@@ -191,7 +191,7 @@ const ankit = {
 
 > 📦 5.7 MB Used in GitHub's Storage 
  > 
-> 🏆 824 Contributions in the Year 2026
+> 🏆 826 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,42 +199,6 @@ const ankit = {
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15748 commits       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-🌆 Daytime                14297 commits       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-🌃 Evening                16155 commits       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-🌙 Night                  8468 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   6328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Tuesday                  6459 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Wednesday                6855 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Thursday                 7950 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Friday                   9153 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Saturday                 11011 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Sunday                   6912 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -252,7 +216,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:37:03 UTC
+ Last Updated on 25/07/2026 01:36:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
