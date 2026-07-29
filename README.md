@@ -189,13 +189,13 @@ const ankit = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.7 MB Used in GitHub's Storage 
  > 
-> 🏆 832 Contributions in the Year 2026
+> 🏆 834 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -203,48 +203,6 @@ const ankit = {
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15768 commits       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌆 Daytime                14299 commits       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌃 Evening                16156 commits       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌙 Night                  8473 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   6335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Tuesday                  6459 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Wednesday                6856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Thursday                 7953 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Friday                   9157 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Saturday                 11015 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Sunday                   6921 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -262,7 +220,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ank1traj/ank1traj/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:33:50 UTC
+ Last Updated on 29/07/2026 01:43:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
